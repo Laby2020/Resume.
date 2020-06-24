@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="utf-8">
@@ -57,10 +57,6 @@ If you want a commission, information will be provided bellow.<br>
 </ul>
 </body>
 </html>
-Resume html text
-<!doctype html>
-<html>
-<head>
 <meta charset="UTF-8">
 <title>Art Gallery</title>
 <style>
