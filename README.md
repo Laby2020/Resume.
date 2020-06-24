@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lola Resume</title>
+<style>
+body {
+ background-color: #;
+ margin: 0 10%;
+ font-family: sans-serif;
+ }
+h1 {
+ text-align: center;
+ font-family: serif;
+ font-weight: normal;
+ text-transform: uppercase;
+ border-bottom: 1px solid #57b1dc;
+ margin-top: 30px;
+}
+h2 {
+ color: #8b0000;
+ font-size: 1em;
+}
+</style>
+</head>
+<body>
+<h1>Lola Bynum Resume</h1>
+<h2>Welcome</h2>
+Hello this my introduction of my resume which explain the set of skill I know and the software that I like to<br>
+use in my web building phases and as well as designing the aspect of the art side of it.
+<h2>BIO</h2>
+<p>Kevin intend to learn with a year of experince is to be a graphic designer artist.<br> I want to assembles together images, typography, or motion graphics to create a piece of design on a web page and as well<br> design logo,poster and art for clients who are seeking design for the company,consert or gather art.<br>I also want to try to learn how to build a web site as a designer in HTML,CSS,Javascript by gaining<br> experinces for school and others learning platform to forward my knowledge on
+the web design eld.<br> have already experinces I tend to get more experince so I can put the skill that I gain to even more used way that will help me in future job hirings.</p>
+<h2>Skills</h2>
+<p>the skill that I have are list as followed</p>
+<ul type = "disc">
+<li>Digital Art</li>
+<li>Tradtional Art</li>
+<li>Small Animatorr</li>
+<li>Oil/Watercolor Painter</li>
+</ul>
+<h2>Software Usage</h2>
+<p>the software that I are listed bellow</p>
+<ol>
+<li>Adobe Illustrator</li>
+<li>Photoshop</li>
+<li>Clip Studio Paint</li>
+<li>Medibang Paint</li>
+</ol>
+<h2>Social Media Links</h2>>
+<ul type = "disc">
+<li>https://github.com/KevinSpec/FID</li>
+</ul>
+<h2>art Gallery</h2>
+<ul>
+ <li><a href="art gallery.html">Lola's work Art gallery...</a></li>
+</ul>
+</body>
+</html>
+Resume html text
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Art Gallery</title>
+<style>
+body {
+ background-color: #FFFFFF;
+ margin: 0 10%;
+ font-family: sans-serif;
+ }
+h1 {
+ text-align: center;
+ font-family: serif;
+ font-weight: normal;
+ text-transform: uppercase;
+ border-bottom: 1px solid #57b1dc;
+ margin-top: 30px;
+}
+h2 {
+ color: #000000;
+ font-size: 1em;
+}
+</style>
+</head>
+<body>
+<h1>Art Gallery</h1>
+<p>few of Lola's thumbnails</p>
+<h2>LifeTale Frsik Sketch</h2>
+<p><a href="package.html"><img src="thumbnail/Kevin Goodrich_Perspective Grid-Packaging.png" alt="image" width="200" height="200"></a><br></p>
+<h2>Pufferfish Ryan Sketch</h2>
+<p><a href="card.html"><img src="thumbnail/Card Illustration Project-200.png" alt="image" width="200" height="200"></a><br></p>
+<h2>Demitree & Neo</h2>
+<p><a href="musical note.html"><img src="thumbnail/Kevin Goodrich_Type-200.png" alt="image" width="200" height="200"></a><br></p>
+<h2>Skelly Boi Nori</h2>
+<p><a href="photoshop fall.html"><img src="thumbnail/Clipping Project Cpmplete-200.png" alt="image" width="200" height="200"></a><br></p>
+<h2>Jay-Son Sketch</h2>
+<p><a href="photoshop dream.html"><img src="thumbnail/Kevin Goodrich-Compositing Project-200.png" alt="images" width="200" height="200"></a><br></p>
+<p><a href="resume.html">Back to the home page</a></p>
+</body>
+</html>
+Gallery html text
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Gallery: package</title>
+<style>
+body {
+ background-color: #faf2e4;
+ margin: 0 10%;
+ font-family: sans-serif;
+ text-align: center;
+ }
+h1 {
+ text-align: center;
+ font-family: serif;
+ font-weight: normal;
+ text-transform: uppercase;
+ border-bottom: 1px solid #57b1dc;
+ margin-top: 30px;
+}
+</style>
+</head>
+<body>
+<h1>Gallery: package</h1>
+<p><img src="photos/Lola Bynum_Perspective Grid-Packaging.svg" alt="image" width="800" height="600"</p>
+<p><a href="art gallery.html">[Back to Gallery]</a></p>
+</body>
+</htm
