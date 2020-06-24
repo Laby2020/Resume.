@@ -87,15 +87,15 @@ h2 {
 <h1>Art Gallery</h1>
 <p>few of Lola's thumbnails</p>
 <h2>LifeTale Frsik Sketch</h2>
-<p><a href="package.html"><img src="thumbnail/Kevin Goodrich_Perspective Grid-Packaging.png" alt="image" width="200" height="200"></a><br></p>
+ <p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==2/thumbnail?appId=YMailNorrinLaunch</p>
 <h2>Pufferfish Ryan Sketch</h2>
-<p><a href="card.html"><img src="thumbnail/Card Illustration Project-200.png" alt="image" width="200" height="200"></a><br></p>
+<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==7/thumbnail?appId=YMailNorrinLaunch</p>
 <h2>Demitree & Neo</h2>
-<p><a href="musical note.html"><img src="thumbnail/Kevin Goodrich_Type-200.png" alt="image" width="200" height="200"></a><br></p>
+<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AFefQqYLghvGXvIo5gj44AZNdi0/content/parts/@.id==2/thumbnail?appId=YMailNorrin&downloadWhenThumbnailFails=true&pid=2<</p>
 <h2>Skelly Boi Nori</h2>
-<p><a href="photoshop fall.html"><img src="thumbnail/Clipping Project Cpmplete-200.png" alt="image" width="200" height="200"></a><br></p>
+<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==3/thumbnail?appId=YMailNorrinLaunch</p>
 <h2>Jay-Son Sketch</h2>
-<p><a href="photoshop dream.html"><img src="thumbnail/Kevin Goodrich-Compositing Project-200.png" alt="images" width="200" height="200"></a><br></p>
+<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==6/thumbnail?appId=YMailNorrinLaunch</p>
 <p><a href="resume.html">Back to the home page</a></p>
 </body>
 </html>
@@ -124,7 +124,7 @@ h1 {
 </head>
 <body>
 <h1>Gallery: package</h1>
-<p><img src="photos/Lola Bynum_Perspective Grid-Packaging.svg" alt="image" width="800" height="600"</p>
+<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==11/thumbnail?appId=YMailNorrinLaunch</p>
 <p><a href="art gallery.html">[Back to Gallery]</a></p>
 </body>
 </htm
