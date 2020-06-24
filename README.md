@@ -80,15 +80,15 @@ h2 {
 <h1>Art Gallery</h1>
 <p>few of Lola's thumbnails</p>
 <h2>LifeTale Frisk Sketch</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==2/thumbnail?appId=YMailNorrinLaunch<2>
+<pfile:///C:/Users/venom/Downloads/IMG_9805%20(1).html<2>
 <h2>Demitree & Neo</h2>
-<p><a https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AFefQqYLghvGXvIo5gj44AZNdi0/content/parts/@.id==2/thumbnail?appId=YMailNorrin&downloadWhenThumbnailFails=true&pid=<2>
+<p><<2>
 <h2>Pufferfish Ryan Sketch</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==7/thumbnail?appId=YMailNorrinLaunch<2>
+<p><2>
 <h2>Jay-son Sketch</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==6/thumbnail?appId=YMailNorrinLaunch<2>
+<p>2>
 <h2>Skelly Boi</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==3/thumbnail?appId=YMailNorrinLaunch<2>
+<p><2>
 <p><a href="resume.html">Back to the home page</a></p>  
  </body>
 </html>
