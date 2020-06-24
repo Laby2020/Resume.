@@ -26,17 +26,17 @@ h2 {
 <body>
 <h1>Lola Bynum Resume</h1>
 <h2>Welcome</h2>
-Hello this my introduction of my resume which explain the set of skill I know and the software that I like to<br>
-use in my web building phases and as well as designing the aspect of the art side of it.
+Lola is a student at Seminole State College and is working towards their Associates in Art for animation/ drawing<br>
+
 <h2>BIO</h2>
-<p>Kevin intend to learn with a year of experince is to be a graphic designer artist.<br> I want to assembles together images, typography, or motion graphics to create a piece of design on a web page and as well<br> design logo,poster and art for clients who are seeking design for the company,consert or gather art.<br>I also want to try to learn how to build a web site as a designer in HTML,CSS,Javascript by gaining<br> experinces for school and others learning platform to forward my knowledge on
-the web design eld.<br> have already experinces I tend to get more experince so I can put the skill that I gain to even more used way that will help me in future job hirings.</p>
+<p>They are a self-taught artist, taking classes such as these have given them better insight on what it takes to become an animator and has broaden their mind to their career.<br>They aspire to make web comics and hopes to turn these comics into an animated tv series
+If you want a commission, information will be provided bellow.<br> 
 <h2>Skills</h2>
 <p>the skill that I have are list as followed</p>
 <ul type = "disc">
 <li>Digital Art</li>
 <li>Tradtional Art</li>
-<li>Small Animatorr</li>
+<li>Small Animator</li>
 <li>Oil/Watercolor Painter</li>
 </ul>
 <h2>Software Usage</h2>
@@ -49,7 +49,7 @@ the web design eld.<br> have already experinces I tend to get more experince so
 </ol>
 <h2>Social Media Links</h2>>
 <ul type = "disc">
-<li>https://github.com/KevinSpec/FID</li>
+<li>•	https://www.instagram.com/jace_the_april_fool/</li>
 </ul>
 <h2>art Gallery</h2>
 <ul>
