@@ -1,22 +1,3 @@
-
-<html>
-<head>
-<meta charset="utf-8">
-<title>Lola Resume</title>
-<style>
-body {
- background-color: #;
- margin: 0 10%;
- font-family: sans-serif;
- }
-h1 {
- text-align: center;
- font-family: serif;
- font-weight: normal;
- text-transform: uppercase;
- border-bottom: 1px solid #57b1dc;
- margin-top: 30px;
-}
 h2 {
  color: #8b0000;
  font-size: 1em;
@@ -83,15 +64,15 @@ h2 {
 <h1>Art Gallery</h1>
 <p>few of Lola's thumbnails</p>
 <h2>LifeTale Frsik Sketch</h2>
- <p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==2/thumbnail?appId=YMailNorrinLaunch</p>
+ <p><img src="Lifetale Frisk.jpg"></p>
 <h2>Pufferfish Ryan Sketch</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==7/thumbnail?appId=YMailNorrinLaunch</p>
+<p><img src="Pufferfish Ryan (colored).jpg"></p>
 <h2>Demitree & Neo</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AFefQqYLghvGXvIo5gj44AZNdi0/content/parts/@.id==2/thumbnail?appId=YMailNorrin&downloadWhenThumbnailFails=true&pid=2<</p>
+<p><img src="Demitree & Neo.png"></p>
 <h2>Skelly Boi Nori</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==3/thumbnail?appId=YMailNorrinLaunch</p>
+<p><img src="Skelly Boi Nori.jpg"></p>
 <h2>Jay-Son Sketch</h2>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==6/thumbnail?appId=YMailNorrinLaunch</p>
+<p><img scr="Jay-Son (colored).jpg"></p>
 <p><a href="resume.html">Back to the home page</a></p>
 </body>
 </html>
@@ -120,7 +101,7 @@ h1 {
 </head>
 <body>
 <h1>Gallery: package</h1>
-<p>https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-0c3zNIr7kMHGc2PHvHnWrFApr7XISivcAEorCiTG2sJCQqFZfMOSYbhrxNU7HToZBmBxuc2UTjmHlmQVvjcwMQ/messages/@.id==AAgYfm8HnjqmXvIo1AFvMFEs9fY/content/parts/@.id==11/thumbnail?appId=YMailNorrinLaunch</p>
+<p></p>
 <p><a href="art gallery.html">[Back to Gallery]</a></p>
 </body>
 </htm
