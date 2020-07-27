@@ -61,42 +61,61 @@ h2 {
 </style>
 </head>
 <body>
-<h1>Art Gallery</h1>
-<p>few of Lola's thumbnails</p>
-<h2>LifeTale Frsik Sketch</h2>
- <p><img src="Lifetale Frisk.jpg"></p>
-<h2>Pufferfish Ryan Sketch</h2>
-<p><img src="Pufferfish Ryan (colored).jpg"></p>
-<h2>Demitree & Neo</h2>
-<p><img src="Demitree & Neo.png"></p>
-<h2>Skelly Boi Nori</h2>
-<p><img src="Skelly Boi Nori.jpg"></p>
-<h2>Jay-Son Sketch</h2>
-<p><img scr="Jay-Son (colored).jpg"></p>
-<p><a href="resume.html">Back to the home page</a></p>
+ 
+ <html>
+ <head>
+ <style> 
+ div.gallery {
+   margin: 5px;
+   border: 1px soilid #ccc;
+   float: left;
+   width: 180px;
+ }
+ div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+ <div class="gallery">
+   <a target="_blank" href="img_5terre.jpg">
+     <img src="img_5terre.jpg" alt="Cinque Terre" width="600"
+height="400">
+ </a>
+ <div class="desc">A place I'd like to visit</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+   <img src="img_forest.jpg" alt="Fprest" width="600" height="400">
+  </a>
+  <div class="desc"> An amazing forest</div>
+</div>
+
+<div class="gallery">
+ <a target="blank" href="img_lights.jpg">
+  <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+ </a>
+ <div class="desc">The remarkable and one in a lifetime sight.</div>
+</div>
+
+<div class="gallery">
+ <a target="_blank" href="img_mountains.jpg">
+  <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+ </a>
+ <div class="desc">The tall mountains, makes a great background.</div>
+</div>
+
 </body>
 </html>
-Gallery html text
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Gallery: package</title>
-<style>
-body {
- background-color: #faf2e4;
- margin: 0 10%;
- font-family: sans-serif;
- text-align: center;
- }
-h1 {
- text-align: center;
- font-family: serif;
- font-weight: normal;
- text-transform: uppercase;
- border-bottom: 1px solid #57b1dc;
- margin-top: 30px;
-}
+
+</html>
 </style>
 </head>
 <body>
