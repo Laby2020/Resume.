@@ -1,6 +1,6 @@
 
-</head>
-<body>
+
+
 <h1>Lola Bynum Resume</h1>
 <h2>About Me</h2>
 Lola is a student at Seminole State College and is working towards their Associates in Art for animation/ drawing.<br>
@@ -115,8 +115,8 @@ h2 {
  font-size: 1em;}
 </html>
 </style>
-</head>
+
 <body>
 <h1>No Art Available</h1>
 </body>
-</html>
+
