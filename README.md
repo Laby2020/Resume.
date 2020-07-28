@@ -1,17 +1,90 @@
-h2 {
- color: #8b0000;
- font-size: 1em;
-}
+<!DOCTYPE html>
+<head>
 </style>
 </head>
 <body>
 <h1>Lola Bynum Resume</h1>
-<h2>Welcome</h2>
-Lola is a student at Seminole State College and is working towards their Associates in Art for animation/ drawing<br>
+<h2>About Me</h2>
+Lola is a student at Seminole State College and is working towards their Associates in Art for animation/ drawing.<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+*{
+ box-sizing: border-box;
+}
 
+body{
+ margin: 0;
+}
+/* Style the header */
+.header {
+ background-color: #f1f1f1;
+ padding: 20px;
+ text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav{
+ overflow: hidden;
+ background-color: #333;
+}
+/* Style the topnav links */
+.topnav a {
+ float: left;
+ display: block;
+ color: #f2f2f2;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.colum {
+ float: left;
+ width: 33.33%;
+ padding: 15px;
+}
+
+/* Responsive layout- makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px)
+{
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+ <h1>Welcome to my resume</h1>
+ <p>Please enjoy your stay and have a wonderful day!</p>
+</div>
+
+<div class="topnav">
+ <a href="#">Home</a>
+ <a href="#">Gallery</a>
+ <a href="#">Contact</a>
+</div>
+
+<div class="row">
+ <div class="column">
 <h2>BIO</h2>
 <p>They are a self-taught artist, taking classes such as these have given them better insight on what it takes to become an animator and has broaden their mind to their career.<br>They aspire to make web comics and hopes to turn these comics into an animated tv series
-If you want a commission, information will be provided bellow.<br> 
+If you want a commission, information will be provided bellow.</p> 
+ </div>
+
+<div class="column">
 <h2>Skills</h2>
 <p>the skill that I have are list as followed</p>
 <ul type = "disc">
@@ -19,7 +92,9 @@ If you want a commission, information will be provided bellow.<br>
 <li>Tradtional Art</li>
 <li>Small Animator</li>
 <li>Oil/Watercolor Painter</li>
-</ul>
+</div>
+
+<div class="column">
 <h2>Software Usage</h2>
 <p>the software that I are listed bellow</p>
 <ol>
@@ -28,18 +103,17 @@ If you want a commission, information will be provided bellow.<br>
 <li>Clip Studio Paint</li>
 <li>Medibang Paint</li>
 </ol>
-<h2>Social Media Links</h2>>
-<ul type = "disc">
-<li>•	https://www.instagram.com/jace_the_april_fool/</li>
-</ul>
+<h2>Social Media Links</h2>
+<li>https://www.instagram.com/jace_the_april_fool/</li>
+
+<div class="column">
 <h2>art Gallery</h2>
 <ul>
- <li><a href="art gallery.html">Lola's work Art gallery...</a></li>
-</ul>
+</div>
 </body>
 </html>
 <meta charset="UTF-8">
-<title>Art Gallery</title>
+<title>Places and Backgrounds Gallery</title>
 <style>
 body {
  background-color: #FFFFFF;
@@ -58,69 +132,15 @@ h2 {
  color: #000000;
  font-size: 1em;
 }
-</style>
-</head>
-<body>
- 
- <html>
- <head>
- <style> 
- div.gallery {
-   margin: 5px;
-   border: 1px soilid #ccc;
-   float: left;
-   width: 180px;
- }
- div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
-
- <div class="gallery">
-   <a target="_blank" href="img_5terre.jpg">
-     <img src="img_5terre.jpg" alt="Cinque Terre" width="600"
-height="400">
- </a>
- <div class="desc">A place I'd like to visit</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-   <img src="img_forest.jpg" alt="Fprest" width="600" height="400">
-  </a>
-  <div class="desc"> An amazing forest</div>
-</div>
-
-<div class="gallery">
- <a target="blank" href="img_lights.jpg">
-  <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
- </a>
- <div class="desc">The remarkable and one in a lifetime sight.</div>
-</div>
-
-<div class="gallery">
- <a target="_blank" href="img_mountains.jpg">
-  <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
- </a>
- <div class="desc">The tall mountains, makes a great background.</div>
-</div>
-
-</body>
-</html>
-
 </html>
 </style>
 </head>
 <body>
-<h1>Gallery: package</h1>
+<h1>No Art Available</h1>
 <p></p>
 <p><a href="art gallery.html">[Back to Gallery]</a></p>
 </body>
 </htm
+
+  
+
