@@ -1,7 +1,4 @@
 
-<!DOCTYPE html>
-<head>
-</style>
 </head>
 <body>
 <h1>Lola Bynum Resume</h1>
@@ -93,7 +90,7 @@ If you want a commission, information will be provided bellow.</div>
 <li>Tradtional Art</li>
 <li>Small Animator</li>
 <li>Oil/Watercolor Painter</li>
-</div>
+
 
 <div class="column">
 <h2>Software Usage</h2>
@@ -110,9 +107,7 @@ If you want a commission, information will be provided bellow.</div>
 <div class="column">
 <h2>art Gallery</h2>
 <ul>
-</div>
-</body>
-</html>
+
 <meta charset="UTF-8">
 <style> 
 h2 {
