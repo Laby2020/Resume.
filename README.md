@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <head>
-</style>
+ </style>
 </head>
 <body>
 <h1>Lola Bynum Resume</h1>
@@ -138,7 +138,3 @@ h2 {
 </head>
 <body>
 <h1>No Art Available</h1>
-<p></p>
-<p><a href="art gallery.html">[Back to Gallery]</a></p>
-</body>
-</htm
