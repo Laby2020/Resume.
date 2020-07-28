@@ -141,6 +141,3 @@ h2 {
 <p><a href="art gallery.html">[Back to Gallery]</a></p>
 </body>
 </htm
-
-  
-
