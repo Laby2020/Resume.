@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <head>
- </style>
+</style>
 </head>
 <body>
 <h1>Lola Bynum Resume</h1>
@@ -82,7 +82,7 @@ body{
  <div class="column">
 <h2>BIO</h2>
 <p>They are a self-taught artist, taking classes such as these have given them better insight on what it takes to become an animator and has broaden their mind to their career.<br>They aspire to make web comics and hopes to turn these comics into an animated tv series
-If you want a commission, information will be provided bellow.</p> 
+If you want a commission, information will be provided bellow.</div> 
  </div>
 
 <div class="column">
@@ -114,27 +114,14 @@ If you want a commission, information will be provided bellow.</p>
 </body>
 </html>
 <meta charset="UTF-8">
-<title>Places and Backgrounds Gallery</title>
-<style>
-body {
- background-color: #FFFFFF;
- margin: 0 10%;
- font-family: sans-serif;
- }
-h1 {
- text-align: center;
- font-family: serif;
- font-weight: normal;
- text-transform: uppercase;
- border-bottom: 1px solid #57b1dc;
- margin-top: 30px;
-}
+<style> 
 h2 {
  color: #000000;
- font-size: 1em;
-}
+ font-size: 1em;}
 </html>
 </style>
 </head>
 <body>
 <h1>No Art Available</h1>
+</body>
+</html>
