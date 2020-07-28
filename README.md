@@ -4,7 +4,7 @@
 <h1>Lola Bynum Resume</h1>
 <h2>About Me</h2>
 Lola is a student at Seminole State College and is working towards their Associates in Art for animation/ drawing.<br>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>CSS Website Layout</title>
@@ -79,8 +79,8 @@ body{
  <div class="column">
 <h2>BIO</h2>
 <p>They are a self-taught artist, taking classes such as these have given them better insight on what it takes to become an animator and has broaden their mind to their career.<br>They aspire to make web comics and hopes to turn these comics into an animated tv series
-If you want a commission, information will be provided bellow.</div> 
- </div>
+If you want a commission, information will be provided bellow. 
+ 
 
 <div class="column">
 <h2>Skills</h2>
